@@ -1,0 +1,13 @@
+{
+  "name": "super-simple-distraction-free",
+  "main": "./lib/index",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "repository": "https://github.com/oniatsu/inkdrop-super-simple-distraction-free",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
